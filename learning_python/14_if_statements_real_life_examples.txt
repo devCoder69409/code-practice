@@ -1,0 +1,19 @@
+#Use of if statements in real life. Literally. 
+
+I wake up
+If I'm hungry #this is a condition -it's gonna be either True or False
+    I eat breakfast
+
+I leave my house 
+if it's cloudy #this one has two different conditions. if the condition is false we have another thing to do.
+    I bring an umbrella
+otherwise
+    I bring sunglasses
+
+I'm at a restaurant #this one is even more complex. if the condition is false we have other conditions to check from the statements.
+if I want meat
+    I order a steak
+otherwise if I want pasta
+    I order spaghetti & meatballs
+otherwise
+    I order a salad
